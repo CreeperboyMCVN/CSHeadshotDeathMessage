@@ -1,0 +1,7 @@
+main: com.CreeperboyMCVN.csheadshotdeathmsg.Main
+version: 1.0
+name: CSHeadshotDeathMsg
+depend: [CrackShot]
+commands:
+    cshsdms:
+        aliases: [csheadshotdeathmsg,crackshotheadshotdeathmessage]
